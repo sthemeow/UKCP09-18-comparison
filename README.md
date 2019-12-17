@@ -27,7 +27,7 @@ This repository is intended to compare the prediction results between UKCP18 and
 <p align="center"><img src="/samples/colour-scheme.png" width="306"></p>
 
 ## Notes
-1. Sample output may be found in *~/Samples*.
+1. Sample output files may be found in *~/samples*.
 1. The default admin region names are slightly different in UKCP09, in UKCP18 and in shapefile. If anyone is to replicate the work, make sure the names are identical to the sample files.
 1. Mapdrawer.py is a single-threaded program. It would take a long time (hours) to plot all maps. You may divide workloads by running multiple instances (easy work-around) or write a multi-threaded program to reduce the rendering time.
 1. The colour code for current colour scheme:
