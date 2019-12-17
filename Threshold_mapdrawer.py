@@ -82,7 +82,7 @@ for timeslice in timesliceList:
                 break
 
             # Define Map Title
-            ax.set_title('Mean temperature in warmest month\nwith 14.5°C treshold over ' + timeslice + '\nat ' + percentile + ' probability level')
+            ax.set_title('Mean temperature in warmest month\nwith 14.5°C threshold over ' + timeslice + '\nat ' + percentile + ' probability level')
 
             # Plot and save map
             trancfile.plot(column=percentile, cmap=GnRd, vmin=vmin, vmax=vmax, linewidth=0.2, ax=ax, edgecolor='0.8')
