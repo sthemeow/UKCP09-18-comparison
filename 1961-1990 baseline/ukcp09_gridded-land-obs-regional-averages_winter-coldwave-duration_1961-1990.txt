@@ -1,0 +1,40 @@
+ADMINISTRATIVE REGION     Annual Average
+East Midlands                      10.59
+East of England                    10.93
+East Scotland                       7.62
+London                             13.16
+North East England                  8.64
+North Scotland                      7.62
+North West England                 11.63
+Northern Ireland                    7.62
+South East England                 13.35
+South West England                 13.27
+Wales                              10.58
+West Midlands                      11.37
+West Scotland                       8.87
+Yorkshire & The Humber              9.99
+
+RIVER BASIN               Annual Average
+Anglian                            10.78
+Argyll                              7.92
+Clyde                               9.21
+Dee                                10.69
+Forth                               8.31
+Humber                             10.22
+Neagh Bann                          8.48
+North East Scotland                 6.81
+North Eastern Ireland               5.87
+North Highland                      7.33
+North West England                 11.59
+North Western Ireland               7.59
+Northumbria                         8.88
+Orkney and Shetland                 7.24
+Severn                             11.50
+Solway                             10.12
+South East England                 13.84
+South West England                 13.42
+Tay                                 7.89
+Thames                             12.95
+Tweed                               7.72
+West Highland                       8.22
+Western Wales                      10.59
