@@ -1,0 +1,113 @@
+﻿timeslice,region,10%,50%,90%
+2010-2039,East Midlands,2,2,2
+2010-2039,East of England,2,2,2
+2010-2039,Eastern Scotland,1,1,2
+2010-2039,London,2,2,2
+2010-2039,North East England,1,0,2
+2010-2039,North West England,0,2,2
+2010-2039,Northern Ireland,1,2,2
+2010-2039,Northern Scotland,1,1,0
+2010-2039,South East England,2,2,2
+2010-2039,South West England,2,2,2
+2010-2039,Wales,0,2,2
+2010-2039,West Midlands,2,2,2
+2010-2039,Western Scotland,1,0,2
+2010-2039,Yorkshire and Humberside,2,2,2
+2010-2039,Isle of Man,1.5,1.5,1.5
+2010-2039,Channel Islands,1.5,1.5,1.5
+2020-2049,East Midlands,2,2,2
+2020-2049,East of England,2,2,2
+2020-2049,Eastern Scotland,1,0,2
+2020-2049,London,2,2,2
+2020-2049,North East England,1,2,2
+2020-2049,North West England,0,2,2
+2020-2049,Northern Ireland,0,2,2
+2020-2049,Northern Scotland,1,1,0
+2020-2049,South East England,2,2,2
+2020-2049,South West England,2,2,2
+2020-2049,Wales,0,2,2
+2020-2049,West Midlands,2,2,2
+2020-2049,Western Scotland,1,0,2
+2020-2049,Yorkshire and Humberside,2,2,2
+2020-2049,Isle of Man,1.5,1.5,1.5
+2020-2049,Channel Islands,1.5,1.5,1.5
+2030-2059,East Midlands,2,2,2
+2030-2059,East of England,2,2,2
+2030-2059,Eastern Scotland,1,0,2
+2030-2059,London,2,2,2
+2030-2059,North East England,1,2,2
+2030-2059,North West England,2,2,2
+2030-2059,Northern Ireland,0,2,2
+2030-2059,Northern Scotland,1,1,0
+2030-2059,South East England,2,2,2
+2030-2059,South West England,2,2,2
+2030-2059,Wales,2,2,2
+2030-2059,West Midlands,2,2,2
+2030-2059,Western Scotland,1,0,2
+2030-2059,Yorkshire and Humberside,2,2,2
+2030-2059,Isle of Man,1.5,1.5,1.5
+2030-2059,Channel Islands,1.5,1.5,1.5
+2040-2069,East Midlands,2,2,2
+2040-2069,East of England,2,2,2
+2040-2069,Eastern Scotland,1,2,2
+2040-2069,London,2,2,2
+2040-2069,North East England,1,2,2
+2040-2069,North West England,2,2,2
+2040-2069,Northern Ireland,0,2,2
+2040-2069,Northern Scotland,1,1,2
+2040-2069,South East England,2,2,2
+2040-2069,South West England,2,2,2
+2040-2069,Wales,2,2,2
+2040-2069,West Midlands,2,2,2
+2040-2069,Western Scotland,1,2,2
+2040-2069,Yorkshire and Humberside,2,2,2
+2040-2069,Isle of Man,1.5,1.5,1.5
+2040-2069,Channel Islands,1.5,1.5,1.5
+2050-2079,East Midlands,2,2,2
+2050-2079,East of England,2,2,2
+2050-2079,Eastern Scotland,1,2,2
+2050-2079,London,2,2,2
+2050-2079,North East England,0,2,2
+2050-2079,North West England,2,2,2
+2050-2079,Northern Ireland,0,2,2
+2050-2079,Northern Scotland,1,0,2
+2050-2079,South East England,2,2,2
+2050-2079,South West England,2,2,2
+2050-2079,Wales,2,2,2
+2050-2079,West Midlands,2,2,2
+2050-2079,Western Scotland,1,2,2
+2050-2079,Yorkshire and Humberside,2,2,2
+2050-2079,Isle of Man,1.5,1.5,1.5
+2050-2079,Channel Islands,1.5,1.5,1.5
+2060-2089,East Midlands,2,2,2
+2060-2089,East of England,2,2,2
+2060-2089,Eastern Scotland,1,2,2
+2060-2089,London,2,2,2
+2060-2089,North East England,0,2,2
+2060-2089,North West England,2,2,2
+2060-2089,Northern Ireland,0,2,2
+2060-2089,Northern Scotland,1,0,2
+2060-2089,South East England,2,2,2
+2060-2089,South West England,2,2,2
+2060-2089,Wales,2,2,2
+2060-2089,West Midlands,2,2,2
+2060-2089,Western Scotland,1,2,2
+2060-2089,Yorkshire and Humberside,2,2,2
+2060-2089,Isle of Man,1.5,1.5,1.5
+2060-2089,Channel Islands,1.5,1.5,1.5
+2070-2099,East Midlands,2,2,2
+2070-2099,East of England,2,2,2
+2070-2099,Eastern Scotland,0,2,2
+2070-2099,London,2,2,2
+2070-2099,North East England,0,2,2
+2070-2099,North West England,2,2,2
+2070-2099,Northern Ireland,2,2,2
+2070-2099,Northern Scotland,1,0,2
+2070-2099,South East England,2,2,2
+2070-2099,South West England,2,2,2
+2070-2099,Wales,2,2,2
+2070-2099,West Midlands,2,2,2
+2070-2099,Western Scotland,0,2,2
+2070-2099,Yorkshire and Humberside,2,2,2
+2070-2099,Isle of Man,1.5,1.5,1.5
+2070-2099,Channel Islands,1.5,1.5,1.5
