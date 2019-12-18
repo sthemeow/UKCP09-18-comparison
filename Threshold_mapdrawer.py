@@ -87,7 +87,7 @@ for timeslice in timesliceList:
             # Plot and save map
             trancfile.plot(column=percentile, cmap=GnRd, vmin=vmin, vmax=vmax, linewidth=0.2, ax=ax, edgecolor='0.8')
             fig.savefig(dirname + '/Threshold_Plots/' + timeslice + '_' + percentile + '.png', dpi=300, bbox_inches="tight")  # Save plot
-            print('Success: ' + '_' + timeslice + '_' + percentile + '.png')
+            print('Success: ' + timeslice + '_' + percentile + '.png')
     except OSError as e:
         print('Error: ' + timeslice + '_' + percentile + '.png')
         print(e)
